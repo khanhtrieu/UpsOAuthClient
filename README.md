@@ -2,7 +2,7 @@
 Use to Create authorization tokens for your application to utilize UPS APIs. This API product is required for all UPS's API integrations.
 ## Installation
 ```
-Install-Package UpsOAuthClient -Version 1.0.0
+Install-Package UpsOAuthClient -Version 1.0.3
 ```
 See NuGet docs for additonal instructions on installing via the dialog or the console.
 
