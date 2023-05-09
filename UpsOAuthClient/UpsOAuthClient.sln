@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpsOAuthClient", "UpsOAuthClient.csproj", "{30BF6814-76AE-44AE-A7AE-558F5EFDD583}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpsOAuthClient.Tests", "..\UpsOAuthClient.Tests\UpsOAuthClient.Tests.csproj", "{7AA2DFC5-4BB4-47C1-BD13-A541E9A95C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BF6814-76AE-44AE-A7AE-558F5EFDD583}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{30BF6814-76AE-44AE-A7AE-558F5EFDD583}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{30BF6814-76AE-44AE-A7AE-558F5EFDD583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BF6814-76AE-44AE-A7AE-558F5EFDD583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA2DFC5-4BB4-47C1-BD13-A541E9A95C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA2DFC5-4BB4-47C1-BD13-A541E9A95C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA2DFC5-4BB4-47C1-BD13-A541E9A95C14}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA2DFC5-4BB4-47C1-BD13-A541E9A95C14}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D60DB668-0D5B-4239-AD36-752554B89D43}
+	EndGlobalSection
+EndGlobal

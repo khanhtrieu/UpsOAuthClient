@@ -1,0 +1,6 @@
+bin
+obj
+/UpsOAuthClient.Tests/app.config
+/UpsOAuthClient.Tests/appsettings.json
+
+/UpsOAuthClient/.vs
